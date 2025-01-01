@@ -18,3 +18,8 @@ C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\refint\WPFU
 C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.pdb
 C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\ref\WPFUI.dll
+C:\Users\Marti\source\repos\SimpleRPG\WPFUI\bin\Debug\net8.0-windows\Engine.dll
+C:\Users\Marti\source\repos\SimpleRPG\WPFUI\bin\Debug\net8.0-windows\Engine.pdb
+C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.csproj.AssemblyReference.cache
+C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.sourcelink.json
+C:\Users\Marti\source\repos\SimpleRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.csproj.Up2Date
